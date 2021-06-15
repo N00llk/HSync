@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>createPage.png</file>
+        <file>deletePage.png</file>
+        <file>syncPage.png</file>
+        <file>syncPageAll.png</file>
+        <file>filter.png</file>
+    </qresource>
+</RCC>
